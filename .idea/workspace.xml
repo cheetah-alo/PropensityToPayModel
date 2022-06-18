@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a55f2e2-1c6e-4c41-9b04-34b005c79561" name="Changes" comment="" />
+    <list default="true" id="3a55f2e2-1c6e-4c41-9b04-34b005c79561" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/input/dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/metadata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/input/dataset.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/input/dataset.dbdataset.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/X.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/X.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/X_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/X_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/X_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/X_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/X_val.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/X_val.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/df_clean.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/df_clean.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/GeneralReport.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/GeneralReport.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Intrum_Logo_RGB_Black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/1_Notebook_EDA_and_EngVar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/2_Notebook_FeatureSel_Validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/3v1_Notebook_Modeling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/3v2_Notebook_Modeling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/3v3_Notebook_Modeling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_files/GeneralReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_readme/Intrum_Logo_RGB_Black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/1_Notebook_EDA_and_EngVar-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/1_Notebook_EDA_and_EngVar-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/2_Notebook_FeatureSel_Validation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/2_Notebook_FeatureSel_Validation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v1_Notebook_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v1_Notebook_Modeling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v2_Notebook_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v2_Notebook_Modeling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v3_Notebook_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3v3_Notebook_Modeling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_Notebook_EDA_and_EngVar.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/1_Notebook_EDA_and_EngVar.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2_Notebook_FeatureSel_Validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2_Notebook_FeatureSel_Validation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3v1_Notebook_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3v1_Notebook_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3v2_Notebook_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3v2_Notebook_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3v3_Notebook_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3v3_Notebook_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/SQLite_Python.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/creditriskpayment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/dataset.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29IosTRMGNiybKxUQVNADZRwadw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,11 +56,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/input" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/input" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -59,6 +98,17 @@
       <updated>1652810166976</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

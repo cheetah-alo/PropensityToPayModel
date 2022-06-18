@@ -1,13 +1,26 @@
-# Introduction 
+# General Information
 
-This project has the main to support to The Major of Boston by analysing the data 
-collected related to crime at the city. As a result, it is looking forward to provide
-a clear understanding of the crime data and help optimized the Police 
-resource.
+This project has the main to develop models to support decisions on the approach of strategies for payment plan collection on companies that work collecting debts . 
 
-The project is developed using python. 
 
-The dataset is a public dataset from Kraggle Link: https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
+The input is a modification of a real data that came from a interview process.
+
+
+
+The project is developed using python and notebooks. 
+
+
+
+You can find a general report on my thoughs during the building process on /PropensityToPayModel/documentation/GeneralReport.md
+
+
+
+# Description
+
+The first step is to create an environment on pycharm for running notebooks on it, and set up the libraries, I planned to use to work on a simple machine learning task. 
+
+
 
 
 # Getting Started
@@ -15,8 +28,5 @@ The dataset is a public dataset from Kraggle Link: https://www.kaggle.com/Analyz
 Before running the code, check the requirement.txt file to set-up the libraries
 and do the installation needed.
 
-# Build and Test
-
-The code is supporting the needs from the Major of Boston. To understand the data several 
-questions are driving the code to identify patterns or areas, time and type of incident. 
+# 
 

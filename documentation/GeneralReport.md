@@ -5,33 +5,7 @@
 
 
 
-![Intrum_Logo_RGB_Black](Intrum_Logo_RGB_Black.png)
 
-
-
-```markdown
-<a href="../PropensityToPayModelByJackyB/img_readme/Intrum_Logo_RGB_Black.png"><img src="../PropensityToPayModelByJackyB/img_readme/Intrum_Logo_RGB_Black.png"></a>
-```
-
-
-
-<a href="../PropensityToPayModelByJackyB/img_readme/Intrum_Logo_RGB_Black.png">
-
-
-
-
-
-<img src="../PropensityToPayModelByJackyB/img_readme/Intrum_Logo_RGB_Black.png"></a>
-
-
-
-
-
-
-
-# 																																**INTRUM**
-
--------
 
 
 
@@ -41,21 +15,6 @@
 
 ###### Author: Jacky Barraza
 
-###### Date: May 25th
-
-
-
-The report is presented as part of the interview process for the candidate Jacky Barraza.
-
-The following report describes both my approach and results to address the Intrum – Home Challenge Modelling.
-
-
-
-A data structure was created for the project following the recommendations of Cookiecutter Data Science [https://drivendata.github.io/cookiecutter-data-science/].
-
-
-
-It was not implemented a control version  for the task, but it could be very handy on future considerations. 
 
 
 
@@ -129,7 +88,7 @@ The following is a high-level plan of tasks. I will use this plan as a general b
 
 ### 1. Frame the Problem
 
-The general purpose it is interpreted as a task to build a "propensity to pay model", so applying machine learning machine learning it could be possible to reduce uncertanity/check the effiencie on the goal of debt collection on INTRUM's strategies. Also, it could be a tool that can be used to define which specific techniques works when contacting "entities" and checking INTRUM's performance on reaching goals on debt collection during a specific time, in this case 90 days.
+The general purpose it is interpreted as a task to build a "propensity to pay model", so applying machine learning machine learning it could be possible to reduce uncertanity/check the effiencie on the goal of debt collection on the company's strategies. Also, it could be a tool that can be used to define which specific techniques works when contacting "entities" and checking company's performance on reaching goals on debt collection during a specific time, in this case 90 days.
 
 
 
@@ -165,7 +124,7 @@ Different analysis was performed for understanding the data and the correlation 
 
 As final output, a dataframe was exported to move to the next steps.
 
-../CreditRiskPayment_JB/data/processed/df_clean.csv
+../PropensityToPayModel/data/processed/df_clean.csv
 
 
 
@@ -173,7 +132,7 @@ As final output, a dataframe was exported to move to the next steps.
 
 ###### 2v1_Notebook_FeatureSel_Validation
 
-[.../PropensityToPayModelByJackyB/html_files/2_Notebook_FeatureSel_Validation.html]
+[.../PropensityToPayModel/html_files/2_Notebook_FeatureSel_Validation.html]
 
 
 
@@ -231,21 +190,21 @@ The output for this section is the X and y arrays, besides the train, val, and t
 
 
 
-> .../CreditRiskPayment_JB/data/output/X.csv
+> .../PropensityToPayModel/data/output/X.csv
 >
-> .../CreditRiskPayment_JB/data/output/y.csv
+> .../PropensityToPayModel/data/output/y.csv
 >
-> .../CreditRiskPayment_JB/data/output/X_train.csv
+> .../PropensityToPayModel/data/output/X_train.csv
 >
-> .../CreditRiskPayment_JB/data/output/y_train.csv
->
-> .
+> .../PropensityToPayModel/data/output/y_train.csv
 >
 > .
 >
 > .
 >
-> .../CreditRiskPayment_JB/data/output/y_test.csv
+> .
+>
+> .../PropensityToPayModel/data/output/y_test.csv
 
 
 
@@ -259,7 +218,7 @@ In this phase, different models were built. There are three notebooks related to
 
 ###### 3v1_Notebook_Modeling
 
-[.../PropensityToPayModelByJackyB/html_files/3v1_Notebook_Modeling.html]
+[.../PropensityToPayModel/html_files/3v1_Notebook_Modeling.html]
 
 
 
@@ -269,7 +228,7 @@ The first approach is decided to build models selected with the input as it is. 
 
 ###### 3v2_Notebook_Modeling
 
-[.../PropensityToPayModelByJackyB/html_files/3v2_Notebook_Modeling.html]
+[.../PropensityToPayModel/html_files/3v2_Notebook_Modeling.html]
 
 
 
@@ -290,7 +249,7 @@ After running the model's set selected in this phase and exploring different tec
 
 ###### 3v3_Notebook_Modeling
 
-[.../PropensityToPayModelByJackyB/html_files/3v3_Notebook_Modeling.html]
+[.../PropensityToPayModel/html_files/3v3_Notebook_Modeling.html]
 
 
 
